@@ -1,0 +1,6 @@
+[submodule "memegen-backend"]
+	path = memegen-backend
+	url = git@github.com:MUIC-CS/memegen-backend.git
+[submodule "memegen-frontend"]
+	path = memegen-frontend
+	url = git@github.com:MUIC-CS/memegen-frontend.git
